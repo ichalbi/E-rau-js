@@ -1,0 +1,13 @@
+{
+	"name": "@ichalbi/erau",
+	"version": "1.0.0",
+	"description": "Retrieve data from mobile app e-rau",
+	"license": "MIT",
+	"repository": "ichalbi/E-rau-js",
+	"main": "index.js",
+	"keywords": [
+		"erau",
+		"npm",
+		"package"
+	]
+}
