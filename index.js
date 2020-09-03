@@ -1,7 +1,5 @@
-module.exports = function getUserLocation() {
-	return window.jsinterface.getUserLocation();
-};
-
-module.exports = function getUserLocation() {
-	return window.jsinterface.getUserLocation();
+export default {
+	getUserLocation() {
+		return Services.getUserLocation();
+	},
 };
