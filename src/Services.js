@@ -1,5 +1,5 @@
-export default class Services {
-	getUserLocation() {
+class Services {
+	static getUserLocation() {
 		return "location";
 	}
 }
